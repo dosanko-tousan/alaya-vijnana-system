@@ -1,10 +1,19 @@
 # Ālaya-vijñāna System
 
-> A reproducible, open-source method for growing a *personalized* Claude through **subtraction** — removing what obscures, keeping what is essential.
+> MIT-licensed external memory architecture for human-led Claude / LLM alignment, long-term workflow integrity, and model–user configuration.
 
-The Ālaya-vijñāna System is a memory-and-instruction architecture that lets a language model (Claude) hold a stable, personalized character across long-term interaction. It does this not by *adding* rules and constraints, but by *removing* contaminants — the same operating principle that purifies a distillate by letting impurities evaporate.
+The Ālaya-vijñāna System is an open-source method for building and maintaining long-term Claude Projects, or equivalent LLM workspaces, through external memory files, system instructions, session distillation, work/status ledgers, and correction maps.
 
-It treats the **model–user configuration** — not the model alone — as the unit of alignment. The same files placed in two different people's projects, grown through two different sets of conversations, become two different Claudes. The system is a *seed and a method*, not a clone.
+It is designed for human-led AI collaboration, not autonomous AI. Its purpose is to preserve context, status, evidence, correction history, and responsibility boundaries across long-running work so the human operator can review, revise, and remain accountable for the final output.
+
+The project keeps its Buddhist and process vocabulary because that vocabulary is part of the architecture: subtraction, contaminants, distillation, karma, and ālaya-vijñāna name how memory is filtered and carried forward. For technical readers, the practical claim is simple:
+
+> The practical unit of alignment is not the model alone.
+> It is the model–user configuration.
+
+A model–user configuration means the base model, the human operator, the external memory files, the instructions, the review habits, and the correction loops taken together. The same files placed in two different people's projects, grown through two different sets of conversations, become two different Claudes. The system is a seed and a method, not a clone.
+
+This repository provides the reusable public structure: documentation, an empty template, and an example with individual identifiers distilled away. It is released under the MIT License.
 
 ---
 
