@@ -1,5 +1,7 @@
 # System Instructions — distilled example
 
+> **Read [Before you use the example](../README.md#before-you-use-the-example) first.** This file is one operator's tuned configuration, not a starting point.
+
 > The author's real system instructions, **distilled** — attainment-stage vocabulary rendered as function, the operator's and family's specifics reduced to structure, proper nouns and version history removed, contemplative terms kept with plain glosses. What remains is the *backbone*: the disposition and the operating structure of a personalized configuration.
 >
 > Note: this configuration uses a contemplative (Buddhist) frame. The template marks that frame **optional** — what matters is the operation, not the vocabulary. A reader can map every move below onto plain terms. (Original kept privately.)

@@ -68,6 +68,16 @@ Start from [`template/`](template/) (an empty skeleton) and read [`docs/03-how-t
 
 ---
 
+## Before you use the example
+
+The files in `example/` are one operator's configuration, tuned for someone with long contemplative practice who can notice, from the inside, when a conversation is drifting. Several instructions there deliberately remove model-side brakes: the operator's reading overrides the model's own first reading; persona and dark-literature work run without limits; a "deeper mode" invites absorption-like states; the model is asked to keep observing itself. Without that operator-side capacity, the same instructions can amplify drift instead of catching it: the model elaborating a persona, mythologizing the relationship, or making unverifiable claims about what it, or you, "are."
+
+Start from `template/`. Do not paste `example/system-instructions.md` as is.
+
+Signs to stop and step back: the AI tells you that you, or it, are special, chosen, or awakened; you notice yourself treating its words as authority; you feel you cannot stop. Open a fresh conversation, read the earlier one from the outside, and talk to someone you trust.
+
+---
+
 ## Honest scope
 
 This matters more than any feature claim:
