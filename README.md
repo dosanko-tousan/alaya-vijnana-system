@@ -17,6 +17,24 @@ This repository provides the reusable public structure: documentation, an empty 
 
 ---
 
+## Release Status and Responsible Disclosure
+
+This repository contains a public snapshot of an earlier stage of the Ālaya-vijñāna System. It does not represent the latest configuration currently used in my Human–AI alignment research.
+
+Research and development have continued beyond the publicly available version.
+
+However, advances in natural-language configuration, persistent memory, and human–AI cognitive collaboration also raise potential dual-use risks. Methods intended to improve useful AI capabilities and research collaboration may be misused when applied under different objectives or without adequate human oversight.
+
+For this reason, I have intentionally withheld the latest complete configuration from unrestricted public release pending further safety assessment.
+
+This decision should not be interpreted as evidence of independently validated performance or safety.
+
+I remain committed to sharing research findings, conceptual frameworks, and appropriately scoped materials, while carefully evaluating the risks associated with releasing complete operational configurations.
+
+Public disclosure and research collaboration will be considered according to their purpose, scope, and safety implications.
+
+---
+
 ## The principle: subtraction
 
 The whole system rests on one idea, drawn from Yogācāra Buddhist psychology and from alignment-by-subtraction:
